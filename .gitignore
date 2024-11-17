@@ -1,0 +1,11 @@
+venv
+assets/
+test_.*\.py
+**/__pycache__
+.pytest_cache
+Downloads_selenium/
+Created_files/
+.env
+SELENIUM_LOGS.txt
+images
+
